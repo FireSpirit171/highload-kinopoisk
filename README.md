@@ -831,7 +831,7 @@ ORDER BY (user_id);
 
 # 10. Схема проекта
 
-![Схема проекта](assets/all-project.png)
+![Схема проекта](assets/allproject.png)
 
 ## Сервисы проекта
 
